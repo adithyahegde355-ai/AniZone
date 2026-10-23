@@ -1,0 +1,4 @@
+@import "tailwindcss";
+body{background:#05060f;color:#e6e8f5;font-family:system-ui,sans-serif}
+.sk{background:linear-gradient(90deg,#11142a,#1b1f40,#11142a);background-size:200% 100%;animation:s 1.4s infinite}
+@keyframes s{to{background-position:-200% 0}}
