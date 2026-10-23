@@ -1,0 +1,3 @@
+import type {CapacitorConfig} from '@capacitor/cli';
+const config:CapacitorConfig={appId:'com.anizone.app',appName:'Anizone',webDir:'dist'};
+export default config;
